@@ -60,3 +60,10 @@ body {
         font-size: 2.5rem;
     }
 }
+
+.name-cambria {
+    font-family: "Cambria", Georgia, serif;
+    /* Optional: Add other styles like weight or color */
+    font-weight: bold;
+    color: #333; /* Dark gray color */
+  }
